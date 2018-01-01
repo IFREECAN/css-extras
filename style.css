@@ -1,1 +1,15 @@
 
+
+h1 {
+  font-family: sans-serif;
+}
+
+.images {
+  positon: relative;
+  width: 80%;
+  border-style: solid, red;
+}
+
+.footer {
+  text-align: center;
+}
