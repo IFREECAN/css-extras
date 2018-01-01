@@ -1,0 +1,27 @@
+
+body {
+  max-width: auto;
+}
+
+
+h1 {
+  font-family: sans-serif;
+}
+
+.images {
+  positon: relative;
+  width: 80%;
+  border-style: solid, red;
+
+}
+
+
+#line {
+  width: 10px;
+  color: green;
+}
+
+
+.footer {
+  text-align: center;
+}
